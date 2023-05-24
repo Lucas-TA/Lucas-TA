@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas, 22 years old, from Sao Paulo Brazil!
+- 👋 Hi, I’m Lucas, 23 years old, from Sao Paulo Brazil!
 - 👀 I’m interested in web development
 - 🌱 I’m currently studying Computer Science Bachelor's degree, first grade, also learning HTML, CSS and JavaScript in a separated course.
 - 💞️ I’m looking to become part of the IT community and find a job opportunity in a near future to develope and practice my skills.
