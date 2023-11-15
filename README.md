@@ -4,6 +4,7 @@
 - Reach me on dev.ascencao@gmail.com
   
 Hard Skills:
+
    • Proficient in HTML, CSS, and JavaScript;
    
    • Familiar with Git/GitHub;
