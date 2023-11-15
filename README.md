@@ -5,13 +5,20 @@
   
 Hard Skills:
    • Proficient in HTML, CSS, and JavaScript;
+   
    • Familiar with Git/GitHub;
+   
    • Knowledgeable in developing interfaces that communicate with APIs;
+   
    • JavaScript libraries: jQuery and React.js;
+   
    • Fluent in agile methodologies;
+   
 In Progress:
    • Learning SASS and LESS;
+   
    • Exploring Vue.js;
+   
    • Gaining proficiency in TypeScript;
 
   Some of my projects:
