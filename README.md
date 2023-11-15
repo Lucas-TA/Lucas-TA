@@ -16,6 +16,7 @@ Hard Skills:
    • Fluent in agile methodologies;
    
 In Progress:
+
    • Learning SASS and LESS;
    
    • Exploring Vue.js;
