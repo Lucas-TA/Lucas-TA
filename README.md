@@ -24,6 +24,6 @@
      • Gaining proficiency in TypeScript;
   
     Some of my projects:
-      [https://lucas-ta.github.io/ProjetoJovemEmCena/](https://projetojovememcena.com.br/)
+      https://projetojovememcena.com.br/
        and
       https://lucas-ta.github.io/new-face-frontend/
