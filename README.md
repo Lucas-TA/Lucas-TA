@@ -25,16 +25,6 @@ Front-End Developer seeking a career transition. Passionate about technology and
 <a href="https://twitter.com/@DEV_LucasT"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/dev_lucasascencao"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=Lucas-TA">
-</p>
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Lucas-TA&show_icons=true"><p>
