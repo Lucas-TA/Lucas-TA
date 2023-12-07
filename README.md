@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas, 23 years old, from Sao Paulo Brazil!
+[![MasterHead](header.png)](https://github.com/Lucas-TA/)
 - 👀 Looking for an opportunity as a Front-End Developer
 - 🌱 I’m currently studying Computer Science Bachelor's degree and I am also specializing on Front-End technologies.
 - Reach me on dev.ascencao@gmail.com
