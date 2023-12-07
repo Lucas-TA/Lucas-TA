@@ -1,3 +1,4 @@
+[![MasterHead](banner.png)](https://github.com/Lucas-TA)
 # Hi there 👋, My name is Lucas Ascenção
 
 Aspiring Front-End Developer seeking a career transition. Passionate about technology and continual skill acquisition. A dedicated problem solver and enthusiast for challenges.
