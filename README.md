@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Lucas Ascenção
 
-Front-End Developer seeking a career transition. Passionate about technology and continual skill acquisition. A dedicated problem solver and enthusiast for challenges.
+Aspiring Front-End Developer seeking a career transition. Passionate about technology and continual skill acquisition. A dedicated problem solver and enthusiast for challenges.
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Projeto Jovem em Cena</p>
