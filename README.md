@@ -2,6 +2,9 @@
 
 Aspiring Front-End Developer seeking a career transition. Passionate about technology and continual skill acquisition. A dedicated problem solver and enthusiast for challenges.
 
+I also serve as a volunteer Front-End Developer, contributing to the development of a website for a school theater project. I possess expertise in key technologies for web development.
+
+
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on <a href="https://projetojovememcena.com.br/" target="_blank">Projeto Jovem em Cena</a></p>
 <p>🌱 I'm currently learning Vue.js, React, TypeScript</p>
