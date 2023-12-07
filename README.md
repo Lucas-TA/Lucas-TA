@@ -27,5 +27,7 @@ Aspiring Front-End Developer seeking a career transition. Passionate about techn
 </p>
 ## 📊 Github Status
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-TA&show_icons=true"><p>
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-TA"><p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-TA&show_icons=true" align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-TA" align="right">
+<p>
