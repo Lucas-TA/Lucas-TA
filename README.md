@@ -5,7 +5,7 @@
 <p align="left">
 <a href="[your link](https://www.linkedin.com/in/lucas-t-ascen%C3%A7%C3%A3o/)" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
-  
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
