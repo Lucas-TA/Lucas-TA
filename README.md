@@ -6,27 +6,17 @@
 <a href="[your link](https://www.linkedin.com/in/lucas-t-ascen%C3%A7%C3%A3o/)" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
   
-  Hard Skills:
-  
-     • Proficient in HTML, CSS, and JavaScript;
-     
-     • Familiar with Git/GitHub;
-     
-     • Knowledgeable in developing interfaces that communicate with APIs;
-     
-     • JavaScript libraries: jQuery and React.js;
-     
-     • Fluent in agile methodologies;
-     
-  In Progress:
-  
-     • Learning SASS and LESS;
-     
-     • Exploring Vue.js;
-     
-     • Gaining proficiency in TypeScript;
-  
-    Some of my projects:
-      https://projetojovememcena.com.br/
-       and
-      https://lucas-ta.github.io/new-face-frontend/
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://lesscss.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/></a>
+<a href="https://gulpjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
+<a href="https://gruntjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-original.svg" alt="grunt" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="reduxjs" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
