@@ -1,8 +1,12 @@
 # Hi there 👋, My name is Lucas Ascenção
 
-Aspiring Front-End Developer seeking a career transition. Passionate about technology and continual skill acquisition. A dedicated problem solver and enthusiast for challenges.
+I am Bachelor's student majoring in Computer Science with a passion for crafting immersive web experiences. Proficient in HTML, CSS, jQuery, JavaScript, TypeScript, and React.js, I thrive on bringing ideas to life through code.
 
-I also serve as a volunteer Front-End Developer, contributing to the development of a website for a school theater project. I possess expertise in key technologies for web development.
+🛠️ My toolbox includes skills in CSS preprocessors like SASS and LESS, as well as a solid understanding of version control with Git/Github. I utilize styled-components for styling in my projects, allowing me to create polished and efficient stylesheets in a modular way.
+
+💻 With a sharp eye for detail and problem-solving skills, I focus on creating interfaces that work smoothly with APIs, making user experiences dynamic and engaging.
+
+📚 Currently on the exciting journey of pursuing my Bachelor's degree in Computer Science, I'm eager to continue expanding my knowledge and skills in the ever-evolving field of web development.
 
 
 ## 💫 Little Bit More About Me
@@ -14,13 +18,19 @@ I also serve as a volunteer Front-End Developer, contributing to the development
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08DB" style="margin-bottom: 4px;" height="30px">
+  <br />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+  <br /> 
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/styled--components-v4.4.1-orange" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+  <br />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
