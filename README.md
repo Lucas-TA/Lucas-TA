@@ -22,6 +22,8 @@ I am Bachelor's student majoring in Computer Science with a passion for crafting
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08DB" style="margin-bottom: 4px;" height="30px">
+  <img src=" https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="30px">
+ 
   <br />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" style="margin-bottom: 4px;" height="30px">
