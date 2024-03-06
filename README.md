@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Lucas Ascenção
 
-I am Bachelor's student majoring in Computer Science with a passion for crafting immersive web experiences. Proficient in HTML, CSS, jQuery, JavaScript, TypeScript, and React.js, I thrive on bringing ideas to life through code.
+I am Bachelor's student majoring in Computer Science with a passion for crafting immersive web experiences. Proficient in HTML, CSS, jQuery, JavaScript and knowledge in TypeScript, and React.js, I thrive on bringing ideas to life through code.
 
 🛠️ My toolbox includes skills in CSS preprocessors like SASS and LESS, as well as a solid understanding of version control with Git/Github. I utilize styled-components for styling in my projects, allowing me to create polished and efficient stylesheets in a modular way.
 
