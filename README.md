@@ -10,7 +10,7 @@ I am Bachelor's student majoring in Computer Science with a passion for crafting
 
 
 ## 💫 Little Bit More About Me
-<p>🔭 I'm currently working on <a href="https://projetojovememcena.com.br/" target="_blank">Projeto Jovem em Cena</a></p>
+<p>🔭 I'm currently on a career transition to Web Development
 <p>🌱 I'm currently learning Vue.js, React, TypeScript</p>
 <p>📫 How to reach me? dev.ascencao@gmail.com</p>
 
